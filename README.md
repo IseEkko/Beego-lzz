@@ -1,3 +1,7 @@
-# Beego-JWT
-
-Beego + JWT for the login and register.
+# 开发框架
+#### 包含的东西
+ 1. jwt 登录注册
+ 2. 有返回的json数据格式
+ 3. 使用orm链接数据库，可以自行建表
+ 4. function包中，有用得到的函数，时间戳等
+ 5. 请求返回的格式
